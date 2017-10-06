@@ -15,4 +15,4 @@ __asm__ ( ".intel_syntax noprefix\n\t"
    printf("%x + %x = %x\n", a, b, c);
 
    return 0;
-} oop
+}
